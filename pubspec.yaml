@@ -1,0 +1,176 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/buy_product_using_digital_wallet_252324721174231.png
+  - assets/images/png_apple_logo_97111.png
+  - assets/images/b_4_e_0_bb_315_b_0_f_7675_ac_1.png
+  - assets/images/lock_icon_111.png
+  - assets/images/img_3536561.png
+  - assets/images/facebook_logo_4931.png
+  - assets/images/google_logo_98081.png
+  - assets/vectors/vector_35_x2.svg
+  - assets/vectors/cellular_connection_3_x2.svg
+  - assets/vectors/menu_3_x2.svg
+  - assets/vectors/group_1_x2.svg
+  - assets/vectors/group_14701_x2.svg
+  - assets/vectors/color_or_image_3_x2.svg
+  - assets/vectors/wifi_5_x2.svg
+  - assets/vectors/group_3_x2.svg
+  - assets/vectors/shopping_bag_3_x2.svg
+  - assets/vectors/arrow_long_left_3_x2.svg
+  - assets/vectors/group_4_x2.svg
+  - assets/vectors/battery_x2.svg
+  - assets/vectors/group_2_x2.svg
+  - assets/vectors/path_6_x2.svg
+  - assets/vectors/shopping_bag_6_x2.svg
+  - assets/vectors/group_1470_x2.svg
+  - assets/vectors/group_14704_x2.svg
+  - assets/vectors/search_3_x2.svg
+  - assets/vectors/color_or_image_6_x2.svg
+  - assets/vectors/polygon_1_x2.svg
+  - assets/vectors/group_14702_x2.svg
+  - assets/vectors/path_4_x2.svg
+  - assets/vectors/vector_19_x2.svg
+  - assets/images/ellipse_1.png
+  - assets/images/placeholder.png
+  - assets/vectors/vector_11_x2.svg
+  - assets/vectors/search_5_x2.svg
+  - assets/vectors/menu_35_x2.svg
+  - assets/vectors/arrow_long_left_2_x2.svg
+  - assets/vectors/vector_30_x2.svg
+  - assets/vectors/cellular_connection_x2.svg
+  - assets/vectors/wifi_1_x2.svg
+  - assets/vectors/menu_36_x2.svg
+  - assets/vectors/group_1494_x2.svg
+  - assets/vectors/menu_38_x2.svg
+  - assets/vectors/battery_2_x2.svg
+  - assets/images/armchair_png_clip_art_image_1.png
+  - assets/images/google_logo_98081.png
+  - assets/images/facebook_logo_4931.png
+  - assets/images/png_apple_logo_97111.png
+  - assets/images/buy_product_using_digital_wallet_252324721174231.png
+  - assets/images/modern_black_chair_png_clipart_1.png
+  - assets/images/imput_image_5.png
+  - assets/vectors/battery_6_x2.svg
+  - assets/vectors/wifi_x2.svg
+  - assets/vectors/shopping_bag_1_x2.svg
+  - assets/vectors/check_x2.svg
+  - assets/vectors/color_or_image_2_x2.svg
+  - assets/vectors/arrow_long_left_4_x2.svg
+  - assets/vectors/cellular_connection_5_x2.svg
+  - assets/vectors/path_5_x2.svg
+  - assets/vectors/polygon_2_x2.svg
+  - assets/vectors/norton_icon_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/images/img_3536561.png
+  - assets/images/b_4_e_0_bb_315_b_0_f_7675_ac_1.png
+  - assets/images/lock_icon_111.png
+  - assets/images/facebook_logo_4931.png
+  - assets/images/png_apple_logo_97111.png
+  - assets/images/google_logo_98081.png
+  - assets/images/buy_product_using_digital_wallet_252324721174231.png
+  - assets/images/buy_product_using_digital_wallet_252324721174231.png
+  - assets/images/png_apple_logo_97111.png
+  - assets/images/lock_icon_111.png
+  - assets/images/facebook_logo_4931.png
+  - assets/images/google_logo_98081.png
+  - assets/images/img_3536561.png
+  - assets/images/b_4_e_0_bb_315_b_0_f_7675_ac_1.png
+  - assets/vectors/vector_2_x2.svg
+  - assets/images/imput_image_6.png
+  - assets/images/imput_image_7.png
+  - assets/images/imput_image_1.png
+  - assets/images/imput_image_2.png
+  - assets/vectors/wifi_3_x2.svg
+  - assets/vectors/vector_13_x2.svg
+  - assets/vectors/qr_x2.svg
+  - assets/vectors/shopping_bag_x2.svg
+  - assets/vectors/search_1_x2.svg
+  - assets/vectors/base_8_x2.svg
+  - assets/vectors/menu_39_x2.svg
+  - assets/vectors/cellular_connection_6_x2.svg
+  - assets/vectors/base_5_x2.svg
+  - assets/vectors/path_x2.svg
+  - assets/vectors/battery_5_x2.svg
+  - assets/vectors/base_3_x2.svg
+  - assets/vectors/combined_shape_x2.svg
+  - assets/vectors/color_or_image_5_x2.svg
+  - assets/vectors/base_1_x2.svg
+  - assets/vectors/vector_10_x2.svg
+  - assets/vectors/arrow_long_left_x2.svg
+  - assets/vectors/menu_31_x2.svg
+  - assets/vectors/cellular_connection_2_x2.svg
+  - assets/vectors/menu_32_x2.svg
+  - assets/vectors/search_4_x2.svg
+  - assets/vectors/battery_1_x2.svg
+  - assets/vectors/menu_37_x2.svg
+  - assets/vectors/wifi_4_x2.svg
+  - assets/images/lock_icon_111.png
+  - assets/images/img_3536561.png
+  - assets/images/facebook_logo_4931.png
+  - assets/images/b_4_e_0_bb_315_b_0_f_7675_ac_1.png
+  - assets/images/google_logo_98081.png
+  - assets/images/buy_product_using_digital_wallet_252324721174231.png
+  - assets/images/png_apple_logo_97111.png
+  - assets/images/gboard_new_design_hero_1.jpeg
+  - assets/images/imput_image_4.png
+  - assets/images/imput_image.png
+  - assets/images/imput_image_7.png
+  - assets/images/imput_image_8.png
+  - assets/images/imput_image_9.png
+  - assets/images/imput_image_3.png
+  - assets/vectors/menu_33_x2.svg
+  - assets/vectors/vector_12_x2.svg
+  - assets/vectors/battery_4_x2.svg
+  - assets/vectors/base_9_x2.svg
+  - assets/vectors/shopping_bag_2_x2.svg
+  - assets/vectors/path_1_x2.svg
+  - assets/vectors/base_4_x2.svg
+  - assets/vectors/base_2_x2.svg
+  - assets/vectors/base_x2.svg
+  - assets/vectors/close_x2.svg
+  - assets/vectors/search_2_x2.svg
+  - assets/vectors/wifi_2_x2.svg
+  - assets/vectors/color_or_image_1_x2.svg
+  - assets/vectors/base_6_x2.svg
+  - assets/vectors/cellular_connection_4_x2.svg
+  - assets/vectors/base_7_x2.svg
+  - assets/vectors/vector_36_x2.svg
+  - assets/vectors/path_3_x2.svg
+  - assets/vectors/cellular_connection_1_x2.svg
+  - assets/vectors/arrow_long_left_1_x2.svg
+  - assets/vectors/shopping_bag_4_x2.svg
+  - assets/vectors/vector_51_x2.svg
+  - assets/vectors/vector_9_x2.svg
+  - assets/vectors/color_or_image_x2.svg
+  - assets/vectors/shopping_bag_5_x2.svg
+  - assets/vectors/path_2_x2.svg
+  - assets/vectors/wifi_6_x2.svg
+  - assets/vectors/battery_3_x2.svg
+  - assets/vectors/color_or_image_4_x2.svg
+  - assets/vectors/vector_14_x2.svg
+  - assets/vectors/search_x2.svg
+  - assets/vectors/menu_34_x2.svg
+  - assets/images/modern_chair_png_hd_quality_1.png
+
